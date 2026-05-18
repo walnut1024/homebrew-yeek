@@ -1,6 +1,6 @@
 cask "yeek" do
-  version "2.0.0-alpha.22"
-  sha256 "2d9a1c2d8b5303b035a14ea61773d3cee2966a01af7fafb4935e678efd070069"
+  version "2.0.0-alpha.23"
+  sha256 "d843a6187096fdd6c13298beb137f17a1209e505cf22d98ecf7065aa549e6a5a"
 
   url "https://github.com/walnut1024/yeek/releases/download/v#{version}/Yeek_#{version}_aarch64.dmg"
   name "Yeek"
